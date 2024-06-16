@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Workflow
 
-1)The project first requires conversion of each pdf page to be captured as an image. 
+1) The project first requires conversion of each pdf page to be captured as an image. 
 
 2) The image is then annotated using CVAT tool.
 
