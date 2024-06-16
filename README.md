@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # Get Paid
 
 ## Description
@@ -9,7 +7,7 @@ An AI OCR and OpenAI powered workflow that enables analysis of pdfs of employees
 
 ## Installation
 
-### Step 1: Clone the Repository
+### Get Started
 First, clone the repository to your local machine using `git`.
 
 ```sh
